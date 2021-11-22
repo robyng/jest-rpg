@@ -1,0 +1,22 @@
+{
+  "name": "jest-rpg",
+  "version": "1.0.0",
+  "description": "Role playing game from command line",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robyng/jest-rpg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robyng/jest-rpg/issues"
+  },
+  "homepage": "https://github.com/robyng/jest-rpg#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
